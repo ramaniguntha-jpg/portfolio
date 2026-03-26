@@ -1,0 +1,14 @@
+.about {
+  background: #475875;
+  border-radius: 12px;
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 30px;
+  box-shadow: 0 10px 30px rgba(62, 14, 14, 0.3);
+}
+
+.about h2 {
+  font-size: 28px;
+  margin-bottom: 20px;
+  color: #38bdf8;
+}
